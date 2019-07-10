@@ -17,6 +17,7 @@ Activate your virtualenv and install the dependencies:
 ```
 virtualenv venv
 source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 The `server.py` and `device.py` assume you have some environment variables set:
