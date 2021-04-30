@@ -4,4 +4,4 @@ idna==2.8
 iotery-embedded-python-sdk==0.1.7
 iotery-python-server-sdk==0.0.9
 requests==2.22.0
-urllib3==1.25.3
+urllib3==1.25.8
